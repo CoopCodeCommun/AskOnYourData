@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "chat-your-data"
+version = "0.1.0"
+description = ""
+authors = ["Jonas Legion <jturbeaux@pm.me>"]
+readme = "README.md"
+packages = [{include = "chat_your_data"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langchain = "^0.0.154"
+openai = "^0.27.5"
+unstructured = {extras = ["local-inference"], version = "^0.6.2"}
+faiss-cpu = "^1.7.4"
+gradio = "^3.28.1"
+ipython = "8.11"
+tiktoken = "^0.3.3"
+chromadb = "^0.3.21"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

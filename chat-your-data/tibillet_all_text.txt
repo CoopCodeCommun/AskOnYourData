@@ -1,0 +1,359 @@
+Introduction
+
+TiBillet est une solution d'adhésion associative, de reservation et billetterie en ligne, de gestion de monnaie temps et monnaie locale, de cashless de festival et de gestion de prise de commande pour salle de restauration.
+
+Le modèle économique proposé par TiBillet est basé sur une économie circulaire et vise à soutenir une filière culturelle créatrice d'un commun.
+
+La plateforme vise à encourager la coopération entre les différents acteurs de la filière culturelle, tels que les tiers-lieux, les créateurs associatifs, les festivals, les artistes, les artisans et les développeurs informatiques d'outils libres.
+
+Dans ce modèle économique, les organisateurs paient uniquement le matériel complémentaire dont ils ont besoin, à prix coûtant, tandis que TiBillet leur fournit un ensemble d'outils pour leur gestion.
+
+Les utilisateurs disposent d'une carte NFC valable dans tout le réseau TiBillet, sans frais d'abonnement ni de rechargement, qui permet l'associer les adhésions associatives, les abonnements à un portefeuille de monnaies temps, locales ou libre et fédérées à plusieurs lieux.
+
+Rejoindre la coopérative Tibillet, c'est intégrer un réseau solidaire et dynamique, qui vous accompagne pour développer votre projet culturel tout en faisant partie de la création d'une économie alternative basée sur la coopération et la solidarité.
+Pourquoi faire ?
+
+TiBillet a été conçu pour répondre à plusieurs objectifs :
+
+    Créer un réseau coopératif de lieux culturels dans une région ou une ville, permettant ainsi la circulation des artistes et des publics entre différents événements culturels.
+
+    Offrir des solutions de gestion événementielle et de restauration accessibles aux petites ou jeunes structures.
+
+    Créer un système de monnaie "temps" pour la gestion et la valorisation du bénévolat, voire de création de monnaie locale à l'échelle d'un territoire.
+
+    Créer un agenda fédéré comme outil de communication destiné à promouvoir les évènements culturels organisés par plusieurs membres d'une même instance sur un territoire donné.
+
+    Fournir une solution innovante, mais écologique en utilisant le matériel existant, la Low-tech et les réseaux de Fablabs locaux pour réduire l'empreinte carbone.
+
+    Répondre aux besoins d'une fédération de tiers-lieux à l'échelle d'un territoire.
+
+    Réfléchir ensemble à une nouvelle façon de créer de la valeur en commun.
+
+Pour qui ?
+Cafés associatifs, salles de concert, festivals, restaurants, tiers-lieux, organisateurs d'événements culturels ( ponctuels ou permanents) et même commerçant ! Pratiquement tout établissement recevant du public peut simplifier sa gestion avec TiBillet.
+
+
+Philosophie
+Quelle est notre différence ?
+
+Tibillet est un projet open source, ce qui signifie que le code source est disponible et accessible à tous. Cela permet notamment de moduler et de personnaliser la solution en fonction de ses besoins spécifiques.
+
+Tibillet est développé et maintenu par une coopérative, ce qui signifie que les profits générés par le projet sont répartis de manière équitable entre les membres de la coopérative.
+
+Tibillet propose un modèle basé sur l'économie circulaire, qui vise à favoriser la réutilisation et la valorisation des ressources déjà existantes.
+
+Tibillet propose des tarifs concurrentiels pour l'achat du matériel et la prestation de service, avec la possibilité de louer le matériel pour une durée courte.
+
+Tibillet met en place un système de portefeuille cashless fédéré, qui permet aux utilisateurs de dépenser et échanger dans tout un réseau de lieux culturels, avec la même carte NFC. Fini les bracelets de festival à usages uniques !
+
+En utilisant la blockchain pour vérifier les transactions, TiBillet vise à garantir une transparence et une sécurité maximales dans l'échange de tout le réseau.
+
+Tibillet met en place des outils pour les utilisateurs et pour les organisateurs d'événements souhaitant créer du lien et de la synergie entre les différents acteurs d'un territoire.
+
+C'est une solution sociale et solidaire : en proposant aux bénéficiaires d'entrer en sociétariat dans la SCIC (Société Coopérative d'Intérêt Collectif), TiBillet offre une solution fédératrice qui permet de développer la culture d'une région, de créer un réseau inter-lieux et d'inviter à la circulation des artistes et des publics.
+Vous avez dit coopératif ?
+
+Le portefeuille cashless de TiBillet est un système de paiement décentralisé qui permet aux utilisateurs de dépenser et échanger de l'argent dans un réseau de cafés-concerts, de tiers-lieux et d'artisans associatif, avec le même portefeuille.
+
+L'argent rechargé sur le portefeuille cashless est disponible à vie et remboursable à tout moment, à condition qu'il reste actif. Si un utilisateur ne s'en sert pas pendant un certain temps, et après de nombreuses relances encourageant l'utilisateur à utiliser sa carte dans le réseau, l'argent restant est collecté et réinjecté dans le système coopératif.
+
+Cela se fait en toute transparence et à la connaissance du titulaire du portefeuille.
+
+Le système de portefeuille cashless fédéré de TiBillet permet ainsi de maintenir l'argent en circulation dans le réseau et de soutenir la création de nouveaux lieux et évènements culturels.
+
+En effet, l'argent ainsi collecté est redistribué entre tous les acteurs du réseau et aide à la création de nouveaux lieux culturels qui souhaitent rejoindre le réseau.
+En pratique, cela donne quoi ?
+
+Voici un exemple du point de vue d'un utilisateur de TiBillet en tant que festivalier :
+
+Imaginez que vous êtes un amoureux de la musique et que vous avez l'habitude de fréquenter de nombreux festivals et événements culturels dans votre région.
+
+Grâce à TiBillet, vous pouvez acheter vos billets de concerts et de festivals en ligne, recharger votre portefeuille cashless sur votre smartphone et utiliser ce même portefeuille pour acheter de la nourriture, des boissons et toutes sortes de produits sur place. Le tout, sans avoir à vous encombrer de monnaie physique ou de cartes de crédit, en utilisant une monnaie locale et fédérée dans tout un territoire, et en simplifiant enormément la gestion financière des associations organisatrices.
+
+Mais TiBillet ne s'arrête pas là. En tant que membre d'une instance, vous faites partie d'un réseau de bénéficiaires issus de tiers-lieux, de coopératives et d'associations qui s'engagent pour l'économie sociale et solidaire et la promotion de la culture dans leur région.
+
+Vous pouvez donc profiter d'un agenda fédéré qui vous permet de découvrir de nouveaux événements culturels proposés par les autres membres du réseau et de participer à des projets collectifs visant à soutenir la filière culturelle de votre territoire.
+
+Réunions, ateliers, concerts, manifestation, conférences, expositions, spectacles, projections, etc... Tout peut être organisé via TiBillet.
+
+Enfin, grâce à la monnaie temps proposée par TiBillet, vous pouvez également contribuer à la vie des lieux que vous aimez en donnant de votre temps et de vos compétences. Vous pouvez par exemple offrir du bénévolat à un festival ou à un tiers-lieu en échange d'un crédit temps aloué sur la carte cashless, qui pourra vous servir pour bénficier d'un atelier futur.
+J'organise des événements culturels dans mon café-concert, c'est quoi l'intérêt pour moi ?
+
+Pour un organisateur d'événements, utiliser TiBillet présente de nombreux avantages.
+
+Tout d'abord, il bénéficie d'un système de billetterie et de gestion de salle complet et intuitif, qui lui permet de gérer efficacement les reservations et les transactions sur place. De plus, en utilisant le cashless, TiBillet peut offrir une alternative intéressante aux paiements en espèces ou en carte :
+
+    Il peut proposer des tarifs préférentiels pour les utilisateurs de la carte cashless, ce qui permet de fidéliser les utilisateurs et de les inciter à revenir sur les événements.
+    Il permet de réduire les coûts liés aux transactions en espèces et en carte bancaire, notamment en termes de gestion de la trésorerie et de sécurité.
+    Il offre une meilleure traçabilité des transactions et une meilleure visibilité sur les habitudes de consommation des clients.
+    Il permet de réduire grandement les temps d'attente aux caisses et de fluidifier la circulation des clients dans les lieux. (+30% de ventes !)
+    Il bénéficie d'un système de gestion de salle et de commande qui permet d'optimiser la prise de commande, la préparation en cuisine et la gestion des stocks.
+    Il peut être utilisé pour proposer des offres et des promotions ciblées aux clients, en fonction de leurs habitudes de consommation.
+    Il peut être utilisé pour établir des partenariats avec d'autres acteurs de la filière culturelle, en proposant aux clients des avantages dans d'autres lieux partenaires.
+
+En utilisant le modèle coopératif, l'organisateur peut également s'intégrer à un réseau de partenaires et de festivals, ce qui lui permet de promouvoir son événement auprès d'un public plus large et de créer des synergies avec d'autres acteurs de la filière culturelle.
+
+Enfin, en utilisant une monnaie locale, l'organisateur peut contribuer à l'économie locale et à l'émergence d'une économie sociale, solidaire et circulaire.
+Et pour les artistes ?
+
+L'agenda fédéré de TiBillet est un outil de promotion des événements culturels qui permet de mettre en avant les différentes manifestations organisées par les partenaires de la coopérative. Il s'agit d'un outil collaboratif qui permet de regrouper les événements d'un même territoire et de les mettre en valeur auprès d'un public cible.
+
+Pour les artistes, la création d'un espace dédié et sa liaison avec l'agenda fédéré est un moyen de se faire connaître auprès d'un public large et de trouver des opportunités de diffusion.
+
+En étant présent sur l'agenda fédéré, les artistes peuvent envoyer des propositions, être repérés par les organisateurs d'événements et ainsi être invités à se produire dans différents lieux partenaires de la coopérative.
+
+
+Cashless
+Vous avez dit Cashless fédéré ?
+
+Le cashless est un système de paiement sans espèces qui permet de régler ses achats de manière électronique. Il se présente sous la forme d'une carte ou d'un bracelet équipé d'une puce NFC (Near Field Communication) qui permet de communiquer avec autant de terminaux que de points de vente souhaités.
+
+Le cashless est souvent utilisé dans les festivals et évènements pour simplifier les transactions et éviter les files d'attente aux caisses. Les participants peuvent recharger leur carte ou bracelet en ligne ou sur place pendant l'évènement, dans des bornes de recharge ou en totale autonomie via le qr code imprimmé sur leur carte, et utiliser leur crédit pour acheter de la nourriture, des boissons ou des souvenirs sur place.
+
+Le cashless de TiBillet est un système fédéré, c'est-à-dire qu'il est utilisé par plusieurs organisateurs d'évènements et lieux culturels. Les utilisateurs peuvent donc utiliser leur portefeuille cashless dans différents endroits et bénéficient d'une carte valable à vie sans frais d'activation ni de rechargement. Cela permet de créer un réseau de coopérants réunis autour d'une monnaie locale destinée à 100% à la culture, et encourage la circulation des artistes et des publics.
+
+Le cashless est également très pratique pour les organisateurs, qui peuvent suivre en temps réel les transactions et les ventes sur leur évènement. Cela leur permet d'optimiser leur gestion de salle et de préparation de commande, ainsi que de fluidifier les ventes qui augmentent de 30% en moyenne.
+
+Au dela d'un système bien connu des festivaliers, TiBillet propose une solution de gestion de salle de restauration en plus de son système de cashless.
+
+Cela permet aux restaurateurs de gérer les commandes, les préparations et les paiements de manière efficace et en temps réel. Les utilisateurs peuvent par exemple passer commande depuis leur table grâce à leur carte NFC, qui est enregistrée dans le système et associée à leur portefeuille cashless.
+
+Les restaurateurs peuvent également utiliser des terminaux de commande pour saisir les commandes et imprimer les tickets de préparation en cuisine.
+
+Cette solution permet de simplifier la gestion de la salle de restauration et de réduire les erreurs de commande. Elle est également adaptée aux évènements en extérieur, grâce à la possibilité de travailler sans connexion Internet.
+
+Enfin, le système de cashless de TiBillet est compatible avec la plupart des imprimantes thermiques et des terminaux de paiement, ce qui permet aux restaurateurs de s'intégrer facilement à leur infrastructure existante.
+
+Billetterie et reservation en ligne
+
+TiBillet est une solution qui permet de créer en quelques clics une page web de présentation d'évènements, de lieux, et de vente de billets en ligne. Un système déjà bien connu, mais sur lequel TiBillet rajoute de la coopération.
+
+Chaque évènement s'inscrit dans le réseau créé par l'instance et les billets peuvent être achetés via la monnaie du portefeuille cashless fédéré.
+
+En créant tout un réseau, TiBillet permet aussi aux artistes et producteurs de spectacles de créer un espace dédié, afin d'avoir la main sur les informations qu'ils partagent au public comme aux organisateurs et programmateurs artistiques.
+Espace artiste
+
+Avec sa page web personnelle créée en quelques clics, l'artiste, qu’il soit émergent ou professionnel, bénéficie d'un outil de communication complètement innovant qui va lui permettre de mettre en avant son projet et de démarcher très facilement, en quelques clics, tous les programmateurs du réseau.
+
+Avec ces informations collectées et renseignées par l'artiste lui-même, l'organisateur / programmateur dispose d'un outil très complet pour gérer sa programmation. En quelques clics, il accède aux informations légales (Intermittence, dispositifs de subventions de cachets, nombre de musiciens, régimes alimentaires particuliers, etc ...) et promotionnelles des artistes ( bio, photos, vidéos, etc ), ainsi qu'à leur calendrier partagé (dates de concerts, fréquentation, etc ...).
+Outils de communications
+
+En proposant les options de gestion d'adhésions associatives et de newsletter, de mass-mailing, et de publication automatique sur les évènements des réseaux sociaux, TiBillet ne se voit pas seulement comme une billetterie, mais comme un outil complet de production évènementielle, créé sur mesure par et pour les organisateurs.
+Agenda fédéré
+
+L'agenda fédéré de TiBillet est un outil de promotion des événements culturels qui permet de mettre en avant les différentes manifestations organisées par les partenaires de l'instance. Il s'agit d'un outil collaboratif qui permet de regrouper les événements d'un même territoire et de les mettre en valeur auprès d'un public cible.
+
+Réunions, manifestation, concerts, spectacles, expositions, conférences, ateliers, etc... tous type d'évènements sont identifiable dans l'agenda de tout un territoire.
+
+Logiciel de prise de commande
+
+La crise sanitaire de la Covid19 nous a amené à repenser notre outil de Cashless et la gestion des prises de commandes en salle, afin de correspondre aux normes actuelles.
+
+Le paiement sans contact grâce à un téléphone Android et la carte NFC du festivalier permet de respecter les gestes barrières et supprime les échanges d'espèces.
+
+Gestion des articles, des inventaires, des ventes, des prises de commande et d’impression de tickets en cuisine et au bar : développé et intégré à TiBillet, ce système peut être utilisé comme un outil de gestion de restauration complet.
+
+Grâce à son téléphone portable Android, le.la serveur.se en salle envoie directement sa commande en cuisine et/ou au bar, et encaisse l'utilisateur qui à préalablement chargé sa carte cashless sur internet : zéro attente, zéro erreur de caisse, et fluidité totale des commandes !
+
+Une version de démonstration de l'interface est disponible, les informations sont en première page.
+
+Tarifs et conditions
+
+TiBillet est un ensemble d'outil qui permet aux utilisateurs de participer à une économie sociale, solidaire et circulaire. Le portefeuille est valable à vie et utilisable dans tout le réseau TiBillet, ce qui permet de créer une véritable communauté de festivaliers et de soutenir l'émergence de nouveaux lieux et évènements culturels.
+
+En tant qu'organisateur, vous profitez de cette communauté pour promouvoir vos évènements et bénéficiez d'une solution de gestion de salle et de prise de commande avancée.
+
+En tant qu'utilisateur, vous pouvez participer activement à cette économie circulaire et profiter de tous les avantages offerts par le portefeuille fédéré.
+
+À ce titre, nous proposons plusieurs modèles économiques :
+Modèle 1 : Économie circulaire.
+
+Notre modèle économique préféré !
+
+Nous vous proposons de participer à une aventure collective en faveur d'une économie sociale, solidaire et circulaire.
+
+Votre billetterie, votre cashless et tous vos outils de gestion évènementiels s'inscrivent dans un réseau de tiers-lieux, de créateurs associatifs, de festivals, d'artistes, d’artisans et développeurs informatique d'outils libres, bref, dans toute une filière culturelle qui se veut créateur d'un commun.
+
+En pratique, vous réglez uniquement le matériel complémentaire dont vous avez besoin, à prix coûtant, nous vous accompagnons dans la mise en place et dans l'utilisation de vos outils et nous sommes tout particulièrement à l'écoute de vos besoins et éventuelles modifications sur mesures.
+
+Vous avez toujours la responsabilité des transactions financières au sein de votre établissement (TiBillet ne fait pas office de banque) mais vos utilisateurs possèdent désormais une carte NFC valable dans tout le réseau TiBillet. Leur portefeuille cashless est valable à vie, sans frais d'abonnement ni de rechargement.
+
+En dehors des frais bancaires indépendants pour l'achat en ligne, aucune commission n'est prélevée sur les ventes et vous encaissez l'intégralité de vos recettes de billetterie et de ventes sur les points cashless.
+
+Vos évènements disposent de l'ensemble de nos outils de communication (Agenda local et fédéré, réseaux sociaux, mailing list, etc ... ), et régulièrement, nous invitons tout au long de l'année les utilisateurs du réseau à profiter de vos évènements.
+
+Enfin, si vous le souhaitez, nous vous inviterons à entrer en sociétariat dans la coopérative pour que vous fassiez partie intégrante du projet TiBillet et de tout son réseau.
+Le portefeuille fédéré et redistribution : une condition sine qua non
+
+Le système de redistribution de Tibillet vise à favoriser l'économie circulaire et solidaire en réinjectant dans le réseau coopératif une partie de l'argent qui reste sur les cartes cashless non utilisées pendant un certain temps.
+
+Cette réinjection permet de soutenir le développement de la coopérative et de nouveaux projets culturels, tout en continuant à encourager l'utilisation des cartes et à créer du lien entre les différents acteurs du réseau.
+
+Le système de redistribution est transparent et connu des titulaires de cartes qui sont invités régulièrement à profiter des évènements proposés par la coopérative pour dépenser leur solde disponible.
+
+En rejoignant la coopérative Tibillet, vous devenez partie intégrante d'un projet d'économie sociale et solidaire qui vise à soutenir et développer la filière culturelle de votre territoire.
+
+En pratique, cela signifie que l'argent des cartes inactives depuis plus d'un an est directement réinjecté dans la coopérative. Bien entendu, avant de désactiver la carte, des messages sont envoyés à son utilisateur pour l'encourager à profiter de vos évènements.
+
+En plus d'encourager la circulation des publics, cet argent est donc utilisé pour financer le développement de votre activité, celle du réseau ainsi que pour créer de nouveaux lieux et évènements culturels.
+
+En outre, en utilisant le système cashless de TiBillet, vous bénéficiez également de la gestion de salle de restauration et de la prise de commande, ce qui peut vous aider à améliorer votre organisation et votre rentabilité.
+Une aventure collective
+
+Rejoindre la coopérative TiBillet, c'est avoir l'opportunité de faire partie d'une aventure collective et de contribuer à un projet d'économie sociale et solidaire en faveur de la culture : vous faites partie d'un réseau de créateurs associatifs, de festivals, d'artistes, d'artisans et de développeurs informatique, qui partagent les mêmes valeurs de solidarité et de développement d'une économie culturelle durable.
+Autrement dit, TiBillet ne vous coute pas : Il vous rapporte !
+Modèle 2 : Prestation de service
+
+Le modèle commercial de TiBillet vous permet de bénéficier de tous les outils de billetterie, de cashless et de gestion de salle de restauration. Ce modèle comprend l'installation du logiciel, la création et l'installation du matériel, la formation de votre équipe, la maintenance et le développement de nouvelles fonctionnalités sur mesure.
+
+Vous n'aurez à vous occuper de rien, nous nous déplaçons dans le monde entier pour installer et former votre équipe sur l'utilisation de l'outil. Le prix du matériel nécessaire au fonctionnement de la solution est très concurrentiel et les frais de transaction sont de 0% pour les ventes de billets et les transactions cashless, en dehors des frais bancaires.
+
+    0.80€ / Bracelet et/ou Carte NFC (1000 exemplaires minimum)
+    700€ / Terminal fixe avec écran 13 pouces tactile.
+    500€ / Terminal fixe avec écran 7 pouces tactile.
+    500€ / Borne de rechargement autonomme via TPE carte bancaire.
+    400€ / Imprimante thermique pour gestion de commande en cuisine et/ou au bar.
+    500 € / an pour installation + hebergement + backup + maintenance + mise à jour.
+    250€ / Jour / Salarié sur place pour formation et installation + Frais de déplacement et d'hébergement.
+    0% par transaction Cashless.
+    0% par billet vendu.
+
+Vous pouvez également opter pour la location du matériel à un taux de 10% du prix de vente par jour pour de la location à courte durée.
+
+Les prix ci-dessus sont indicatifs et peuvent évoluer suivant la charge de travail nécéssaire à votre projet. Si vous êtes intéressé par ce modèle commercial, n'hésitez pas à nous contacter pour un devis personnalisé : contact at tibillet.re ou venez discuter avec nous sur Discord.
+Licence et modèle AGPL-3.0 license
+
+Le code source de l'ensemble des briques du projet est ouvert et disponible sous licence AGPL-3.0.
+
+Le code est publicé sur Github : https://github.com/TiBillet.
+
+La licence publique générale GNU Affero (GNU AGPL) est une version modifiée de la version 3 de la GNU GPL ordinaire.
+
+Elle a une seule exigence supplémentaire: si vous exécutez un programme modifié sur un serveur et laissez d'autres utilisateurs communiquer avec lui, votre serveur doit aussi leur permettre de télécharger le code source correspondant à la version modifiée en fonctionnement.
+
+Pour en savoir plus : https://www.gnu.org/licenses/why-affero-gpl.fr.html
+
+La solution est installable telle quelle sans garantie de fonctionnement ni aucun service après-vente.
+
+Librement votre :)
+
+Cet article est un tout petit peu technique, mais tout à fait accessible à quiconque souhaite plus d'information sur le chantier en cours.
+
+Avec le collectif La Réunion des Tiers Lieux (RTL) se lance un grand chantier autour des outils communs. Nous détaillons ici une partie, celle de la construction et la decentralisation d'un
+agenda et d'un portefeuille cashless partagé à tout un territoire.
+Introduction
+
+Aujourd'hui, lorsque l'on veut organiser des évènements, beaucoup de solutions existent.
+
+Et rare sont les routes pour communiquer entre ces solutions : il faut souvent apprendre à jongler.
+
+/img/federons/01-jongler.png
+
+De plus, chaque acteur de la filière s'affaire souvent dans son coin, multipliant ainsi les données souvent redondantes.
+
+Parfois même, nous alimentons des plateformes silo qui enferment et captent nos données sans avoir la main sur la visibilité de nos actions : nous sommes souvent devenus dépendant des algorithmes des GAFAM qui décident de notre visibilité.
+
+/img/federons/02-silo.png
+TiBillet ?
+
+Avec TiBillet, nous participons aussi malgré nous à cette isolation. Depuis 2010, nous construisons des outils numériques pour l'évènementiel culturel : Chaque lieu peut posseder une carte d'adhésion et de paiement sans contact (Cashless) et son instance de billetterie avec son agenda.
+
+Le public peut réserver sa place de concert et recharger sa carte en ligne. Chaque lieu à son instance, ses membres et utilisateurs bien à lui.
+
+Et sur un petit territoire comme la Réunion, c'est souvent les mêmes utilisateurs ...
+
+/img/federons/03-multiples.png
+Au commencement ...
+
+Au tout début, la "Stack' TiBillet (ensemble de boites techniques) était très centralisé :
+
+/img/federons/05-stackblock.png
+
+En 2018 vient un premier intérêt public avec l'aide du PRMA (Pole Régional des musique actuelles) de la Réunion.
+
+On commence à penser fort à libérer le code et créer une coopérative pour supporter le développement.
+
+Puis vient la rencontre avec les tiers-lieux de La Raffinerie, de Vavang'Art, et avec le réseau social libre Communecter.
+
+Le projet de portefeuille fédéré de RTL ne fait que confirmer nos envies communes et nous donne les moyens de développer un nouveau modèle.
+
+Aujourd'hui (Octobre 2022), le chantier à beaucoup avancé. Il reste beaucoup à faire et la feuille de route commence à bien se dessiner :
+Réunion des Tiers-Lieux
+
+Avec la Réunion des Tiers-lieux, nous avons lancé le chantier Outil Commun pour fédérer les pratiques, éviter de multiplier les données et mutualiser le matériel.
+
+Du côté de la team TiBillet, nous nous sommes affairés à construire les briques d'un logiciel libre utilisable par tout un territoire et dDepuis plusieurs mois, nous changeons le moteur de notre application pour pouvoir construire un outil commun et fédéré de billetterie, d'agenda culturel et de cashless.
+
+/img/federons/04-start_fede.png
+
+Pour réussir à construire TiBillet en outil fédéré, techniquement, il a fallu changer pas mal de choses. Et pas uniquement notre vision globale :)
+
+Dans les grandes lignes, nous souhaitons séparer le développement et l'expérimentation en trois grandes étapes.
+
+Deconstruire pour decentraliser.
+
+Fini le gros bloc PHP. La billetterie, qui s'occupe de gérer les paiements en ligne (recharge cashless via stripe), les réservations et les ventes de billet a été complètement repensée.
+
+/img/federons/06-blockcentral.png
+Première étape : L'agenda fédéré.
+
+En avant avec Django ! Le framework web en Python est déja utilisé coté cashless, nous avons tout repensé depuis la base pour faire un modèle dit de SaaS (Software as a service). L'idée est de pouvoir utiliser la puissance combinée du moteur de schéma PostgreSQL pour des applications multi-tenant.
+
+Derrière ce vocabulaire un peu barbare se cache une idée toute simple : Un seul serveur pour gérer plusieurs instances qui se partagent des informations communes.
+
+Autrement dit, plutôt que d'avoir plein de serveurs séparés qui stockent chacun peu ou prou les mêmes données (carte, utilisateurs, évènements, etc... ), nous mutualisons tout un territoire sur une seule "Stack".
+
+/img/federons/07-tenant-part1.png
+
+Certaines données, comme les utilisateurs et l'agenda sont partagées entre tous les acteurs.
+
+D'autre sont uniques à chaque instance : Évènements, adhésions, information générales, cartes cashless etc ...
+
+/img/federons/08-samedata.png
+
+Mais surtout, ce système nous permet de faire une présentation de TOUS les évènements présents dans l'instance: Nous l'avions nommé la META, mais bon... Yen a un qui nous a piqué le nom xD ...
+
+Et hop ! Agenda Fédéré !
+
+/img/federons/09-agenda.png
+
+Ici nous parlons de concerts et d'artiste. Mais il est tout à fait possible d'imaginer des réunions, des marchés d’artisans, des festivals, des locations de salle de répetes, des randonnées etc etc ...
+
+C'est un moteur évènementiel de données partagées. Les idées qui permettent de l'exploiter sont nombreuses !
+
+À l'heure où nous écrivons ces lignes (octobre 2022), ce système est prêt et mis en production depuis quelques jours.
+
+A vous de le tester ! Venez discuter avec nous pour vos retours et vos idées !
+Et ma carte dans tout ça ?
+
+/img/federons/10-rapport.png
+
+On y vient ! C'est la suite logique, non ? Et si nous ajoutions dans les données communes les cartes NFC déja utilisées par les lieux ?
+
+/img/federons/11-cartecashless.png
+
+Après l'agenda, libérons les cartes NFC !
+
+À suivre dans la 3ᵉ partie ...
+
+
+L’accord sur les Technologies Numériques
+
+Les grandes entreprises technologiques, la propriété intellectuelle et la propriété privée des moyens de calcul sont profondément ancrées dans la société numérique et ne peuvent être éteintes du jour au lendemain. Ainsi, pour remplacer le capitalisme numérique par un modèle socialiste, nous avons besoin d’une transition planifiée vers le socialisme numérique.
+
+Les écologistes ont proposé de nouveaux “accords” décrivant la transition vers une économie verte. Les propositions réformistes comme le Green New Deal américain et le Green Deal européen fonctionnent dans un cadre capitaliste qui conserve les méfaits du capitalisme, comme la croissance terminale, l’impérialisme et les inégalités structurelles. En revanche, les modèles écosocialistes, tels que le Red Deal de la Nation Rouge, l’Accord de Cochabamba et la Charte de justice climatique d’Afrique du Sud, offrent de meilleures alternatives. Ces propositions reconnaissent les limites de la croissance et intègrent les principes égalitaires nécessaires à une transition juste vers une économie véritablement durable.
+
+Cependant, ni ces accords rouges ni ces accords verts n’intègrent de plans pour l’écosystème numérique, malgré sa pertinence centrale pour l’économie moderne et la durabilité environnementale. À son tour, le mouvement pour la justice numérique a presque entièrement ignoré les propositions de décroissance et la nécessité d’intégrer leur évaluation de l’économie numérique dans un cadre écosocialiste. La justice environnementale et la justice numérique vont de pair, et les deux mouvements doivent s’associer pour atteindre leurs objectifs.
+
+À cet effet, je propose un Accord sur les Technologies Numériques écosocialiste qui incarne les valeurs croisées de l’anti-impérialisme, de la durabilité environnementale, de la justice sociale pour les communautés marginalisées, de l’autonomisation des travailleurs, du contrôle démocratique et de l’abolition des classes. Voici dix principes pour guider un tel programme :
+
+    Veiller à ce que l’économie numérique ne dépasse pas les limites sociales et planétaires.
+    Supprimer progressivement la propriété intellectuelle.
+    Socialiser l’infrastructure physique.
+    Remplacer les investissements privés de production par des subventions et une production publiques.
+    Décentraliser Internet.
+    Socialiser les plateformes.
+    Socialiser l’intelligence numérique et les données.
+    Interdire la publicité forcée et le consumérisme des plateformes.
+    Remplacer l’armée, la police, les prisons et les appareils de sécurité nationale par des services de sûreté et de sécurité gérés par les communautés.
+    Mettre fin à la fracture numérique.
