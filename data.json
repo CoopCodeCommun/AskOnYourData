@@ -1,0 +1,191 @@
+{
+  "artistes": {
+    "Ziskakan": "5b972df2-0123-4cb0-8180-c2c0a76dea25",
+    "Balaphonik Sound System": "114910c9-57d1-47a5-930b-2ef6a945ca80"
+  },
+  "salles": {
+    "Demo": "625befc6-bde2-4d00-9775-2cc23eca910d",
+    "Billetistan": "259b16a9-2aaf-40ca-8296-2a5322e55a39"
+  },
+  "products": {
+    "Adh\u00e9sion Associative": {
+      "nom": "Adh\u00e9sion Associative",
+      "description courte": "Une adh\u00e9sion qui sera visible sur une carte de membre rechargeable en monnaie locale.",
+      "categorie": "Abonnement et/ou adh\u00e9sion associative",
+      "uuid": "99378ae2-1d48-4039-8bb6-848f8189b942",
+      "prix": {
+        "uuid": "b6ddc903-4431-4585-8390-99acb659915f",
+        "nom": "Plein Tarif",
+        "prix": "20.00"
+      }
+    },
+    "Recharge cashless": {
+      "nom": "Recharge cashless",
+      "categorie": "Recharge suspendue",
+      "uuid": "ffc75860-b6e3-4786-8c7a-fc1db00b47a3",
+      "prix": {
+        "uuid": "ac8a07a6-6bca-460d-8c32-c943c6e4c66b",
+        "nom": "Recharge",
+        "prix": "1.00",
+        "description": "Recharge"
+      }
+    },
+    "Abonnement AMAC": {
+      "nom": "Abonnement AMAC",
+      "description courte": "Association pour le maintient d'une activit\u00e9 culturelle",
+      "categorie": "Abonnement et/ou adh\u00e9sion associative",
+      "uuid": "209181b4-ecfa-476a-b96f-b5b93209033b",
+      "prix": {
+        "uuid": "627aee25-7c82-44e6-8e14-336b31da6187",
+        "nom": "Par mois",
+        "prix": "16.00",
+        "description": "Payez au mois"
+      }
+    },
+    "Abonnement AMAP": {
+      "nom": "Abonnement AMAP",
+      "description courte": "Association pour le maintient d'une activit\u00e9 paysanne",
+      "categorie": "Abonnement et/ou adh\u00e9sion associative",
+      "uuid": "203be84d-e0ae-4b67-bebc-374fa8bfa3e0",
+      "prix": {
+        "uuid": "b80d8cda-ccee-4a64-a09e-95e459cdc5f2",
+        "nom": "Amap A l'ann\u00e9e",
+        "prix": "360.00",
+        "description": "Payez pour un an."
+      }
+    },
+    "Reservation non nominative": {
+      "nom": "Reservation non nominative",
+      "categorie": "Billet payant",
+      "uuid": "a34803c6-1f51-497f-8ce5-17925ffcfad2",
+      "prix": {
+        "uuid": "51199317-007e-4eeb-a1d3-02de0a7b51f9",
+        "nom": "Plein tarif",
+        "prix": "15.00",
+        "produit adhesion ou abonnement obligatoire": "Adh\u00e9sion Associative"
+      }
+    },
+    "Billet non nominatif": {
+      "nom": "Billet non nominatif",
+      "categorie": "Billet payant",
+      "uuid": "d9c6d50b-d07f-48d7-ab14-0718a97aab2e",
+      "prix": {
+        "uuid": "3a6e2ac5-a38b-4450-8c56-321f479cfcdd",
+        "nom": "Petit prix",
+        "prix": "3.00"
+      }
+    },
+    "Reserver une table": {
+      "nom": "Reserver une table",
+      "categorie": "Billet payant",
+      "uuid": "db99860c-e2c2-4020-bf37-95d81ad3b1a0",
+      "prix": {
+        "uuid": "a8b10a47-5bb8-4fb8-b7d4-cf6e8435578f",
+        "nom": "Plein tarif - Maximum 6 personnes",
+        "prix": "20.00",
+        "produit adhesion ou abonnement obligatoire": "Adh\u00e9sion Associative"
+      }
+    },
+    "Billet": {
+      "nom": "Billet",
+      "categorie": "Billet payant",
+      "uuid": "4d527f4e-c5c1-4bbe-bc01-d3895492f429",
+      "prix": {
+        "uuid": "a8fe382a-f227-46ef-9edb-9deb39fdf53f",
+        "nom": "Plein Tarif",
+        "prix": "10.00",
+        "produit adhesion ou abonnement obligatoire": "Adh\u00e9sion Associative"
+      }
+    },
+    "Pass Weekend": {
+      "nom": "Pass Weekend",
+      "categorie": "Billet payant",
+      "uuid": "32f41612-95a1-46b8-a005-5f52af88936e",
+      "prix": {
+        "uuid": "1db01e06-220e-4021-8b70-7456f5459b19",
+        "nom": "Plein Tarif",
+        "prix": "45.00"
+      }
+    },
+    "Tshirt": {
+      "nom": "Tshirt",
+      "categorie": "Vetement",
+      "uuid": "3127b182-60ba-4f5e-b00a-6f4ad9e546ee",
+      "prix": {
+        "uuid": "4037d3a3-329a-4561-bf03-4a093180d09b",
+        "nom": "L",
+        "prix": "25.00",
+        "description": "Taille L"
+      }
+    },
+    "Repas": {
+      "nom": "Repas",
+      "categorie": "Billet payant",
+      "uuid": "4895f8b7-7d09-4b66-a714-aa6dc0f5a29e",
+      "prix": {
+        "uuid": "dfeb0a58-38bc-4bab-85eb-3343b02f47f7",
+        "nom": "Tarif unique",
+        "prix": "12.00"
+      }
+    },
+    "Don pour la coop\u00e9rative": {
+      "nom": "Don pour la coop\u00e9rative",
+      "categorie": "Don",
+      "uuid": "fe1b5011-7d91-45db-90bb-fa02f16d0a42",
+      "prix": {
+        "uuid": "7a1b2aa4-f890-446b-825e-0f3ab295c100",
+        "nom": "Coop\u00e9rative TiBillet",
+        "prix": "1.00"
+      }
+    },
+    "Reservation": {
+      "nom": "Reservation",
+      "categorie": "Reservation gratuite",
+      "uuid": "af12db4d-942a-4620-9d3a-7aa24fdb91ba",
+      "prix": {
+        "uuid": "dffbc28f-b524-4289-9239-e592898a7231",
+        "nom": "gratuite",
+        "prix": "0.00"
+      }
+    },
+    "Reservation \u00e0 valider": {
+      "nom": "Reservation \u00e0 valider",
+      "categorie": "N\u00e9cessite une validation manuelle",
+      "uuid": "05b870b0-25f8-4c48-9cdf-74207cb9741c",
+      "prix": {
+        "uuid": "781f7ec0-a040-414c-a5e6-1d5bba1d7a14",
+        "nom": "Gratuite",
+        "prix": "0.00",
+        "description": "Gratuite"
+      }
+    }
+  },
+  "options disponible pour les reservations": {
+    "Balcon": "0dd91afc-931b-4bb5-881a-214416b7f5b4",
+    "Fosse": "70859773-76e5-4665-8c1c-b1de48d1a443",
+    "Veg\u00e9tarien": "1240c32f-7eca-40af-86d0-8ce9aed02de2",
+    "Vegan": "9c236671-8d5f-49ed-a72c-7e085fe2c583",
+    "Membre actif": "e5e79c5f-d14d-4862-b97f-98a6283862e7",
+    "eventOptionCheckbox2": "c9d74fdb-3be0-40ed-8d62-35e0b707c43d",
+    "eventOptionCheckbox3": "b973fa71-b6d5-4c7b-a8a3-a67f03c4e978",
+    "eventOptionRadio1": "0586e0dd-aa80-49f9-943c-f80e963120e3",
+    "eventOptionRadio2": "86f79a88-498f-4338-b372-213e3836f58a",
+    "eventOptionRadio3": "23d3fff1-fc14-42c0-a9c3-604c51e931be"
+  },
+  "cat\u00e9gories d'\u00e9v\u00e8nement": [
+    "Concert",
+    "Festival",
+    "R\u00e9union",
+    "Conf\u00e9rence",
+    "Restauration"
+  ],
+  "tags": {
+    "test2": "f0e43f4d-786d-41b9-aa6b-662d130549a9",
+    "goutu": "6aaa664e-420b-4fb9-bc44-73ddf915222d",
+    "cool": "a5b12b14-5911-4ff8-9d93-ed81349774b5",
+    "balaise": "568fe3b3-c617-4197-82dd-b57bcd45214b",
+    "original": "2fae37db-b4d2-420c-a79e-c48cd649bc50",
+    "test": "f1dbbf08-075e-4bda-93bf-0ea39f114b33",
+    "test3": "50748683-6e65-46e1-8209-9cd7036a19cb"
+  }
+}

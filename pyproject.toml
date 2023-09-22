@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "ask-tibillet-data-with-llm"
+version = "0.1.0"
+description = ""
+authors = ["Jonas Legion <jturbeaux@pm.me>"]
+readme = "README.md"
+packages = [{include = "ask_tibillet_data_with_llm"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langchain = {extras = ["llms"], version = "^0.0.281"}
+datetime = "^5.2"
+jq = "^1.5.0"
+ipdb = "^0.13.13"
+ipython = "^8.15.0"
+unstructured = "^0.10.12"
+matplotlib = "^3.7.2"
+plotly = "^5.16.1"
+pandas = "^2.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
